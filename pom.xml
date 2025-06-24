@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.javarush</groupId>
-    <artifactId>jira</artifactId>
+    <artifactId>jirarush</artifactId>
     <version>1.0</version>
     <name>JiraRush</name>
     <description>Mini-JIRA from JavaRush</description>
@@ -96,6 +96,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
             <optional>true</optional>
         </dependency>
         <dependency>
